@@ -1,4 +1,3 @@
-print('Hello world')
 def name ():
     supname = 0
     while supname == 0:
